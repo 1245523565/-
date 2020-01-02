@@ -1,10 +1,9 @@
 ---
-layout: page
-title: "Contact"
-css: ["contact.css"]
+title: Contact
+layout: post
+permalink: /contact/
 ---
-<div class="col s12">
-  <div class="icontain">
-    <iframe src="{{site.contact_url}}">Loading...</iframe>
-  </div>
-</div>
+
+May be a contact form.
+
+Email: <a href="mailto:{{site.email}}">{{site.email}}</a>
